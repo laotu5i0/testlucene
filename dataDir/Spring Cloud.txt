@@ -1,0 +1,22 @@
+COORDINATE ANYTHING: DISTRIBUTED SYSTEMS SIMPLIFIED
+
+Building distributed systems doesn't need to be complex and error-prone. Spring Cloud offers a simple and accessible programming model to the most common distributed system patterns, helping developers build resilient, reliable, and coordinated applications. Spring Cloud is built on top of Spring Boot, making it easy for developers to get started and become productive quickly.
+
+CONNECT ANYTHING
+
+Spring Cloud Data Flow makes it easy to build and orchestrate cloud-native data pipelines for use cases such as data ingest, real-time analytics, and data import/export. Spring Cloud Data Flow makes it simple to connect systems by providing out of the box connectors for the most common integration scenarios.
+
+-
+Supports processing data in real-time streams and batch
+-
+Ingest, transform, analyze & store data
+-
+Connectors for FTP, RDBMS, Cassandra, RabbitMQ, GemFire, Redis, and much more
+-
+Supports modern messaging middleware - Kafka and RabbitMQ
+-
+Spring Flo visual designer for pipelines
+-
+Operational dashboard - metrics, health checks, and remote management
+-
+Supported platforms: Cloud Foundry, Kubernetes, Apache YARN, Apache Mesos

@@ -1,0 +1,3 @@
+In conjunction with its partners, Pivotal offers training services for developers, system administrators, and technical managers. Current developer training courses are for Spring, Pivotal Gemfire and Pivotal RabbitMQ. Additional developer courses are available for introductory and advanced Scala, as well as Akka and Play. For administrators, Pivotal also offers courses for Pivotal tcServer, Apache Tomcat, and VMware Hyperic.
+
+Learn More 

@@ -1,0 +1,22 @@
+BUILD ANYTHING WITH SPRING BOOT
+
+Spring Boot is the starting point for building all Spring-based applications. Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring.
+
+-
+Get started in seconds using Spring Initializr
+-
+Build anything - REST API, WebSocket, Web, Streaming, Tasks, and more
+-
+Simplified Security
+-
+Rich support for SQL and NoSQL
+-
+Embedded runtime support - Tomcat, Jetty, and Undertow
+-
+Developer productivity tools such as live reload and auto restart
+-
+Curated dependencies that just work
+-
+Production-ready features such as tracing, metrics and health status
+-
+Works in your favorite IDE - Spring Tool Suite, IntelliJ IDEA and NetBeans

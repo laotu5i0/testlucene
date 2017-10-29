@@ -1,0 +1,6 @@
+Accelerate your new application development projects and minimize performance risks by taking advantage of Spring Services by Pivotal. Pivotal is the primary sponsor of the Spring Community and our consultants are the same people that create and maintain Spring and Apache Tomcat. This means:
+
+Our consultants are also hard-core Java developers
+Our consultants bring real-world expertise to your company
+We have an army of Java engineers backing up the consultants you work with
+Learn More 

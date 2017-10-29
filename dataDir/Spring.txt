@@ -1,0 +1,16 @@
+Spring Boot
+BUILD ANYTHING
+
+Spring Boot is designed to get you up and running as quickly as possible, with minimal upfront configuration of Spring. Spring Boot takes an opinionated view of building production ready applications.
+
+ 
+Spring Cloud
+COORDINATE ANYTHING
+
+Built directly on Spring Boot's innovative approach to enterprise Java, Spring Cloud simplifies distributed, microservice-style architecture by implementing proven patterns to bring resilience, reliability, and coordination to your microservices.
+
+ 
+Spring Cloud Data Flow
+CONNECT ANYTHING
+
+Connect the Enterprise to the Internet of Anything-mobile devices, sensors, wearables, automobiles, and more. Spring Cloud Data Flow provides a unified service for creating composable data microservices that address streaming and ETL-based data processing patterns.
